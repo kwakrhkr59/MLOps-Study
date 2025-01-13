@@ -3,4 +3,5 @@
 */*/mlruns
 */mlartifacts
 */.dvc
+*/.dvcignore
 */.gitignore
